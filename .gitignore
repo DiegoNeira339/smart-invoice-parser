@@ -1,0 +1,16 @@
+# Python / Entorno virtual
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+
+# Frontend (Next.js / Node)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Entorno / Variables secretas
+.env
+.env.local
+.DS_Store
